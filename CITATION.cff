@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Epoxy-Bonded Steel Plate Retrofitting in RC Beams — Prediction App"
+version: "v1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+authors:
+  - family-names: "Kholil"
+    given-names: "Ibrahim"
+    # orcid: "0000-0000-0000-0000"
+date-released: "2025-08-17"
+repository-code: "https://github.com/USER/rc-beam-retrofit-app"

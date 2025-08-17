@@ -1,0 +1,11 @@
+{
+  "title": "Epoxy-Bonded Steel Plate Retrofitting in RC Beams — Prediction App",
+  "description": "Streamlit app and trained ExtraTrees model for predicting capacities and debonding onset in RC beams retrofitted with epoxy-bonded steel plates using CZM-informed features.",
+  "creators": [
+    {
+      "name": "Kholil, Ibrahim"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["RC beams", "retrofitting", "epoxy", "steel plate", "cohesive zone", "finite element", "machine learning", "ExtraTrees", "Streamlit"]
+}
