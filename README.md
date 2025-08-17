@@ -1,5 +1,5 @@
 # Epoxy-Bonded Steel Plate Retrofitting in RC Beams — Prediction App
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16889615.svg)](https://doi.org/10.5281/zenodo.16889615)
 Streamlit app and trained artifacts for:
 > **Comprehensive Parametric Investigation of Epoxy-Bonded Steel Plate Retrofitting in RC Beams Using Cohesive Zone Finite Element Modeling**
 
