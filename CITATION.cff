@@ -2,10 +2,45 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Epoxy-Bonded Steel Plate Retrofitting in RC Beams — Prediction App"
 version: "v1.0.0"
+date-released: "2025-08-17"
 doi: "10.5281/zenodo.XXXXXXX"
+license: "MIT"
+repository-code: "https://github.com/USER/rc-beam-retrofit-app"
+
 authors:
   - family-names: "Kholil"
-    given-names: "Ibrahim"
-    # orcid: "0000-0000-0000-0000"
-date-released: "2025-08-17"
-repository-code: "https://github.com/USER/rc-beam-retrofit-app"
+    given-names: "Md. Ibrahim"
+    affiliation: "Postgraduate Student, Department of Civil Engineering, Khulna University of Engineering and Technology, Khulna, Bangladesh"
+    email: "engikholil@gmail.com"
+    orcid: "https://orcid.org/0000-0002-3349-8496"
+
+  - family-names: "Islam"
+    given-names: "Md. Waliul"
+    affiliation: "Graduate, Department of Civil Engineering, Khulna University of Engineering & Technology, Khulna, Bangladesh"
+    email: "noyon038@gmail.com"
+
+  - family-names: "Rashid"
+    given-names: "Muhammad Harunur"
+    affiliation: "Professor, Department of Civil Engineering, Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh"
+    email: "mhrashid@ce.kuet.ac.bd"
+
+  - family-names: "Ahmed"
+    given-names: "Aziz"
+    affiliation: "Senior Lecturer, School of Civil, Mining, Environmental and Architectural Engineering, University of Wollongong, Australia"
+    email: "aziza@uow.edu.au"
+    orcid: "https://orcid.org/0000-0001-9707-2606"
+
+references:
+  - type: article
+    title: "Debonding in Epoxy-Bonded Steel-Plated RC Beams: Cohesive Zone Modeling and Machine Learning Prediction"
+    authors:
+      - family-names: "Kholil"
+        given-names: "Md. Ibrahim"
+      - family-names: "Islam"
+        given-names: "Md. Waliul"
+      - family-names: "Rashid"
+        given-names: "Muhammad Harunur"
+      - family-names: "Ahmed"
+        given-names: "Aziz"
+    year: 2025
+    note: "Manuscript under preparation; not yet published; DOI pending."
