@@ -1,5 +1,13 @@
-streamlit>=1.36
-scikit-learn>=1.3
-numpy>=1.23
-pandas>=1.5
-joblib>=1.2
+import shap
+import openpyxl
+import matplotlib
+import joblib
+import sklearn
+streamlit
+numpy
+pandas
+matplotlib
+joblib
+scikit-learn
+shap
+openpyxl
